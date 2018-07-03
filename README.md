@@ -10,4 +10,3 @@ console.log(msg);
 {%- language name="HTML", type="html" -%}
 <b>Hello World</b>
 {%- endcodetabs %}
-
